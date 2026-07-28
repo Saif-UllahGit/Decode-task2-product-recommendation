@@ -28,7 +28,3 @@ Developed as part of the **Decode Internship Program (Task 2)**.
 - Generative AI
 - Python-dotenv
 
----
-
-## 📂 Project Structure
-a
